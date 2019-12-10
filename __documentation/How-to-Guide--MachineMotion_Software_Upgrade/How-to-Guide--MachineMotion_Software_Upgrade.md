@@ -53,11 +53,7 @@ The single-board computer (SBC) inside the MachineMotion controller contains an 
         <ul>
             <li>Latest Release</li>
             <ul>
-                <li><a href="https://ventionblobs.s3.amazonaws.com/machine_motion_release/machine_motion_v1.12.1_hotfix_191003.zip">machine_motion_v1.12.1_hotfix_191003</a></li>
-            </ul>
-            <li>Previous Releases</li>
-            <ul>
-                <li><a href="https://ventionblobs.s3.amazonaws.com/machine_motion_release/machine_motion_v1.2.11_hotfix190910_roap.zip">machine_motion_v1.2.11_hotfix_190910_roap</a></li>
+                <li><a href="https://ventionblobs.s3.amazonaws.com/machine_motion_release/machine_motion_v1.12.1_hotfix_191205.zip">machine_motion_v1.12.1_hotfix_191205</a></li>
             </ul>
         </ul>
     </ul>
